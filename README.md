@@ -70,7 +70,7 @@ This an end-to-end data engineering project on the Azure cloud. Where I did data
 ### 📤 Data Ingestion
 - Connected the on-premise SQL Server with Azure using Microsoft Integration Runtime.
 
-![image](./Azure-AW/assets/66017329/b57debac-28c2-4928-8640-676643e0177c)
+![image](./Azure-Data-Project-1/Azure-AW/assets/66017329/b57debac-28c2-4928-8640-676643e0177c)
 
 - Setup the **Resource group** with needed services (Key Vault, Storage Account, Data Factory, Databricks, Synapse Analytics)
 
